@@ -1,0 +1,1 @@
+# teradata-85j
